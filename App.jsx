@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import CreateForm from "./components/CreateForm";
-import Heading from "./components/Heading";
-import ListGroup from "./components/ListGroup";
-import Status from "./components/Status";
+import CreateForm from "./CreateForm";
+import Heading from "./Heading";
+import ListGroup from "./ListGroup";
+import Status from "./Status";
 
 const App = () => {
   const todoList = [
